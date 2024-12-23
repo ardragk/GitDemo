@@ -8,4 +8,8 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Nakshatra");
     }
+    
+    public void test() {
+    	System.out.println("ardra");
+    }
 }
